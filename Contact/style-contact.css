@@ -1,0 +1,28 @@
+body{
+    background-image: url(./images/background_contact.jpg);
+}
+
+.h1 {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.jumbotron{
+    padding-top: 25px;
+    padding-bottom: 30px;
+}
+
+.myborder{
+    border-bottom: solid whitesmoke;
+}
+
+footer{
+    
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    border-top: solid;
+    border-width: thick; 
+    line-height: 60px !important;
+}
+
