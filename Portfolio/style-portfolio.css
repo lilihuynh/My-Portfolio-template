@@ -2,10 +2,6 @@ body{
     background-image: url(./images/background_portfolio.jpg);
 }
 
-.h1 {
-    font-family: 'Times New Roman', Times, serif;
-    
-}
 .jumbotron{
     padding-top: 25px;
     padding-bottom: 30px;
@@ -15,8 +11,12 @@ body{
     border-bottom: solid whitesmoke;
 }
 
-footer{
+.h1 {
+    font-family: 'Times New Roman', Times, serif;
     
+}
+
+footer{
     position: fixed;
     bottom: 0;
     width: 100%;
