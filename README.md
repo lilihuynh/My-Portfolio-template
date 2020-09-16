@@ -1,8 +1,8 @@
 # MY-PORTFOLIO-TEMPLATE
 
-Project link: [project page]
+Project link: [https://github.com/lillianhuynh/My-Portfolio-template]
 
-Github-page:
+Github-page: [https://lillianhuynh.github.io/My-Portfolio-template/]
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Github-page:
 
 ## About The Project
 
-![Project Screenshot]
+![Project Screenshot](screenshot/992-index.png)
 
 "My Portfolio" template is built based on responsive web design approach which helps the applications work seemlessly regardless of user's devices or screen sizes. With "My Portfolio", you can easily track and update your contact information and projects. It is an excellent way to present your work to your potential employers. 
 
@@ -42,8 +42,8 @@ git clone
 
 You can easily track and update your contact information and projects by using this template.
 
-![Project Screenshot](assets/images/readmeimg.png)
-![Project Screenshot](assets/images/readmeimg.png)
+![Project Screenshot]()
+![Project Screenshot]()
 
 ## Roadmap
 
