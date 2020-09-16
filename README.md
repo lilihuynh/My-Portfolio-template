@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
 ```sh
-git clone 
+git clone https://github.com/lillianhuynh/My-Portfolio-template
 ```
 
 ## Usage
@@ -56,7 +56,7 @@ You can easily track and update your contact information and projects by using t
 
 ## Roadmap
 
-See the [open issues](https://) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/lillianhuynh/My-Portfolio-template/issues) for a list of proposed features (and known issues).
 
 ## Contributing
 
@@ -75,4 +75,4 @@ N/A
 ## Contact
 
 Lili Huynh- lillianhuynh312@gmail.com
-Project Link: [https://](https://github.com/github_username/repo_name)
+Project link: [https://github.com/lillianhuynh/My-Portfolio-template]
