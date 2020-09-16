@@ -42,8 +42,17 @@ git clone
 
 You can easily track and update your contact information and projects by using this template.
 
-![Project Screenshot]()
-![Project Screenshot]()
+| 400        | 768        | 992        |
+|------------|------------|------------|
+| <img src="images/400-index.png" width="250"> | <img src="images/768-index.png" width="250"> |<img src="images/992-Index.png" width="250"> |
+
+| 400        | 768        | 992        |
+|------------|------------|------------|
+| <img src="images/400-contact.png" width="250"> | <img src="images/768-contact.png" width="250"> |<img src="images/992-contact.png" width="250"> |
+
+| 400        | 768        | 992        |
+|------------|------------|------------|
+| <img src="images/400-portfolio.png" width="250"> | <img src="images/768-portfolio.png" width="250"> |<img src="images/992-portfolio.png" width="250"> |
 
 ## Roadmap
 
