@@ -19,7 +19,7 @@ Github-page: [https://lillianhuynh.github.io/My-Portfolio-template/]
 
 ## About The Project
 
-![Project Screenshot](screenshot/992-index.png)
+![Project Screenshot](images/992-Index.png)
 
 "My Portfolio" template is built based on responsive web design approach which helps the applications work seemlessly regardless of user's devices or screen sizes. With "My Portfolio", you can easily track and update your contact information and projects. It is an excellent way to present your work to your potential employers. 
 
